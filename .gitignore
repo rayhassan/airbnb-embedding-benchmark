@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.streamlit/secrets.toml
+# uv
+.venv/
+# legacy pip (no longer used)
+venv/
